@@ -1,5 +1,5 @@
 # Simple quiz app that use [Open Trivia DB](https://opentdb.com/)
-
+https://dumb-dumber-dumbest-trivia.web.app/
 ## Project setup
 ```
 npm install
